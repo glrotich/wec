@@ -1,0 +1,72 @@
+
+
+	header{
+		width: 1000px;
+	}
+	p{
+		width: 800px;
+		
+	}
+
+	.article-thumbs {
+		align: center;
+		padding: 20px 30px;
+	}
+	.article-thumbs img{
+		
+		align: center;
+		padding: 20px 30px;
+	}
+	h2{
+		font-size:3em;
+		color: gray;
+	}
+	.lake-palace{
+		width: 800px;
+		padding: 5px 50px;
+	}
+	#long-romantic{
+		width: 800px;
+	}
+	article p {
+		text-align: justify;
+		text-indent: 25px;
+		margin:10px 30px;
+		padding: 10px 25px;
+	}
+	#romantic-city{
+		padding:0px 60px;
+		width: 800px;
+		
+	}
+	blockquote{
+		display:block;
+		position: right-side;
+		border: 5px solid ;
+		width:200px;
+		background-color: gray;
+		color: blue;
+		font-size: 25px;
+	}
+	#main-nav a, 
+		a:visited {
+		text-decoration: none;
+	}
+	#main-nav a:hover, 
+	a:focus, 
+	a:active {
+		text-decoration: underline;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
