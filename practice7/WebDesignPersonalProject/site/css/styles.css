@@ -1,0 +1,120 @@
+
+	/*.post-heading {
+		color: #006633;
+		font-size: 1.8em;
+	margin-bottom: 0px;	}
+	*/
+	main{
+		background-image:url(../img/pipes.png);
+	}
+	
+	#main-nav	{
+		font-size: 1.3em;
+		
+	}
+	blockquote	{
+		color: #33ccff;
+		font-size: 1.3em;
+	}
+	h1{
+	font-size: 60px;
+	text-align:center;
+	text-decoration: underline;
+	font-style: italic;
+	color: aqua;
+	padding: right-left: 20%;
+	width: 1200px;
+	position: fixed;
+	margin-top: 1%;
+			 
+	}
+			  
+	h2{
+	font-size: 2em;
+	text-align:center;
+	color:black ;
+	}
+	h3 {
+	font-size: 40px;
+	color: green;
+	padding-bottom: 0px;
+	padding-top:0px
+	}
+	
+	ul 
+	{
+	font-style: serif;
+	column-count: 1;
+	}
+
+	/*Create styling for the products unordered list*/
+	.products {		
+	color: purple;
+	list-style-type:disc;
+	column-count: 2;
+	margin:10px 10px 10px 10px;
+	}
+			 
+	h4{
+	font-size: 30px;
+	color: orange;
+	}
+	
+	#main-nav  a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+	font-size: 30px;
+	}
+	
+	#main-nav ul li{
+		float: left;
+		margin-top: 10%;
+		margin-left: 5%;
+		
+		display: inline;
+		padding-left: 5%;
+	}
+	
+	#main-nav a:visited
+	{	
+	text-decoration: underline;
+	padding-left: 20%;
+	}
+	
+	p{
+	font-size:20px;
+	width:1200px;
+	}
+	.main-purpose{
+	font-size:20px;
+	width:1000px;
+	padding: 30px 20px;
+				
+	}
+	.pic-poo{
+	/* margin-left: 10px;*/
+			 
+	}
+	.specifics{
+	padding:5px 5px;
+	width: 1000px;
+	margin: 5px 5px;
+	
+	}
+	blockquote{
+	float:center;
+	font-size: 250%;
+	background-color: pink;
+	width: 500px;
+	position:relative;
+	}
+	.pic-poo img{
+	width: 200px;
+	/* border-radius: 50%;*/
+	float:right;
+	}
+	body img{
+	width: 200px;
+	border-radius: 50%;
+	float:right;
+	margin-bottom: 100px;
+	}
